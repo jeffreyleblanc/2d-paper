@@ -4,11 +4,12 @@
 
 <https://developer.mozilla.org/en-US/docs/Web/CSS/CSSOM_view/Coordinate_systems>
 
-Positions in play
-    * client => event.clientX and event.clientY
-        * <https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/clientX>
-    * mouse => position within the canvas element
-    * document => position within the document
+Positions in play:
+
+* client => event.clientX and event.clientY
+    * <https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/clientX>
+* mouse => position within the canvas element
+* document => position within the document
 
 
 ## Basic Transformations
